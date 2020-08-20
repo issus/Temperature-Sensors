@@ -53,3 +53,8 @@ __Previews/*
 Project Logs*/*
 Project Outputs*/*
 *.PcbDoc.htm
+*/History/*
+*/__Previews/*
+*/Project Logs*/*
+*/Project Outputs*/*
+*/*.PcbDoc.htm
